@@ -1,0 +1,23 @@
+{
+  "name": "build-a-node-js-cli-using-yargs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start:vanilla": "node src/vanilla.js",
+    "start:yargs": "node src/yargs.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frinyvonnick/build-a-node-js-cli-using-yargs.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/frinyvonnick/build-a-node-js-cli-using-yargs/issues"
+  },
+  "homepage": "https://github.com/frinyvonnick/build-a-node-js-cli-using-yargs#readme",
+  "dependencies": {
+    "yargs": "^14.2.0"
+  }
+}
